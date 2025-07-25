@@ -1,6 +1,6 @@
 # CodeAlpha_DataVisualization
 
-# CodeAlpha – Data Visualization on Superstore Sales 📊📦
+# CodeAlpha – Data Visualization on Superstore Sales 
 
 > ✅ Task 3 – Data Analytics Internship @ CodeAlpha
 
