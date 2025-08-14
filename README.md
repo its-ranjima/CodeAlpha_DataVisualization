@@ -68,9 +68,15 @@ This project focuses on transforming Superstore sales data into meaningful, inte
 
 ---
 
-##  Outcome
-
-✅ Completed Task 3 as per the official internship instructions  
-
-
----
+> **📌 Additional Completed Work (Beyond Requirements)**
+>
+> I have also completed **Task 4 – Sentiment Analysis** as part of going beyond 
+> the internship’s minimum requirements.
+>
+> 🔗 **GitHub Link to Task 4:** [Click here](https://github.com/yourusername/CodeAlpha-Task4-Sentiment-Analysis)
+>
+> **Overview of Task 4:**
+> - Analyzed text data from [Dataset Source]
+> - Classified sentiment into Positive, Negative, and Neutral
+> - Used NLP techniques (NLTK/TextBlob)
+> - Created sentiment distribution visualizations
