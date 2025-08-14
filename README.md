@@ -68,14 +68,15 @@ This project focuses on transforming Superstore sales data into meaningful, inte
 
 ---
 
-> #📌 Additional Completed Work (Beyond Requirements)**
+# Additional Completed Work (Beyond Requirements)**
 
-># I have also completed **Task 4 – Sentiment Analysis** as part of going beyond 
+- I have also completed **Task 4 – Sentiment Analysis** as part of going beyond 
 
-> # GitHub Link to Task 4:** [Click here]([https://github.com/yourusername/CodeAlpha-Task4-Sentiment-Analysis](https://github.com/its-ranjima/CodeAlpha_SentimentAnalysis.git))
->
-> **Overview of Task 4:**
-> - Analyzed text data from [Dataset Source]
-> - Classified sentiment into Positive, Negative, and Neutral
-> - Used NLP techniques (NLTK/TextBlob)
-> - Created sentiment distribution visualizations
+ # GitHub Link to Task 4:** [Click here]([https://github.com/yourusername/CodeAlpha-Task4-Sentiment-Analysis](https://github.com/its-ranjima/CodeAlpha_SentimentAnalysis.git))
+
+# *Overview of Task 4:**
+
+ - Analyzed text data from Amazon Review
+- Classified sentiment into Positive, Negative, and Neutral
+ - Used NLP techniques (NLTK/TextBlob)
+- Created sentiment distribution visualizations
