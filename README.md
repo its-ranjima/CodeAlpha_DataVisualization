@@ -68,12 +68,11 @@ This project focuses on transforming Superstore sales data into meaningful, inte
 
 ---
 
-> **📌 Additional Completed Work (Beyond Requirements)**
->
-> I have also completed **Task 4 – Sentiment Analysis** as part of going beyond 
-> the internship’s minimum requirements.
->
-> 🔗 **GitHub Link to Task 4:** [Click here]([https://github.com/yourusername/CodeAlpha-Task4-Sentiment-Analysis](https://github.com/its-ranjima/CodeAlpha_SentimentAnalysis.git))
+> #📌 Additional Completed Work (Beyond Requirements)**
+
+># I have also completed **Task 4 – Sentiment Analysis** as part of going beyond 
+
+> # GitHub Link to Task 4:** [Click here]([https://github.com/yourusername/CodeAlpha-Task4-Sentiment-Analysis](https://github.com/its-ranjima/CodeAlpha_SentimentAnalysis.git))
 >
 > **Overview of Task 4:**
 > - Analyzed text data from [Dataset Source]
